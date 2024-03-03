@@ -1,0 +1,36 @@
+p {
+    font-family: Roboto;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.title {
+    font-size: 18px;
+    font-weight: bold;
+    width: 300px;
+    line-height: 24px;
+    margin-bottom: 5px;
+}   
+.views {
+    font-size: 14px;
+    color: rgb(66, 63, 63);
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+.author {
+    font-size: 14px;
+    color: rgb(66, 63, 63);
+    margin-top: 0;
+}
+.apple {
+    margin-bottom: 50px;
+    font-size: 14px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding-top: 18px;
+    padding-bottom: 18px;
+}
+.shop:hover {
+    text-decoration: underline;
+    cursor: pointer;
+} 
